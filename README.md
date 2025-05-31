@@ -1,5 +1,3 @@
-<img alt="Just a GIF" width="100%" src="https://github.com/dhawal-pandya/Dhawal-Pandya/blob/main/Dhawal%20Pandya.gif">
-
 <h1 align="center">Hello, I'm Anjali</h1>
 <h3 align="center">A Software Engineer from India</h3>
 
@@ -10,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript, React, NextJs**
 
-- 📫 How to reach me **anjaliroyrishra@gmail.com@gmail.com**
+- 📫 How to reach me **anjaliroyrishra@gmail.com**
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
@@ -20,7 +18,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <br>
   <h4>Technologies</h4>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
